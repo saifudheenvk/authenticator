@@ -80,13 +80,3 @@ This is an **Authenticator App** that handles user authentication with features 
 - **useEffectOnce**: Ensures that `useEffect` runs only once during component mount.
 - **useDebounce**: Used for debouncing user input or API requests (included for testing purposes).
 
----
-
-## Setup Instructions
-
-### **Backend Setup (NestJS)**
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   cd <project-directory>
